@@ -5,7 +5,7 @@ HOST_CHANNEL = "roles"
 
 INACCESSIBLE_ROLES = {"the whats role role", "Admin", "Mods", "Interviewers",
                       "Recruiter", "Hiring Manager", "Bot Creation", "Website Mod", 
-                      "Channel Mod", "Dory Team", "Temporary Mute"}
+                      "Channel Mod", "Dory Team", "Temporary Mute", "Contributor"}
 
 # ROLES = { role_group: { role_name: emote_name, ... }, ... }
 # alphabetically order groups to keep correct order
